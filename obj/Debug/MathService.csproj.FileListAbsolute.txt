@@ -1,0 +1,34 @@
+C:\SP2015\CSE445\Lectures\Week8\MathService\MathService\bin\MathService.dll.config
+C:\SP2015\CSE445\Lectures\Week8\MathService\MathService\bin\MathService.dll
+C:\SP2015\CSE445\Lectures\Week8\MathService\MathService\bin\MathService.pdb
+C:\SP2015\CSE445\Lectures\Week8\MathService\MathService\obj\Debug\MathService.dll
+C:\SP2015\CSE445\Lectures\Week8\MathService\MathService\obj\Debug\MathService.pdb
+C:\SP2015\CSE445\Lectures\Week8\MathService_REST\MathService\bin\MathService.dll.config
+C:\SP2015\CSE445\Lectures\Week8\MathService_REST\MathService\bin\MathService.dll
+C:\SP2015\CSE445\Lectures\Week8\MathService_REST\MathService\bin\MathService.pdb
+C:\SP2015\CSE445\Lectures\Week8\MathService_REST\MathService\obj\Debug\MathService.csprojResolveAssemblyReference.cache
+C:\SP2015\CSE445\Lectures\Week8\MathService_REST\MathService\obj\Debug\MathService.dll
+C:\SP2015\CSE445\Lectures\Week8\MathService_REST\MathService\obj\Debug\MathService.pdb
+C:\cse460_Development\Modules\Unit6\Web_Services\MathService_REST\MathService_REST\MathService\bin\MathService.dll.config
+C:\cse460_Development\Modules\Unit6\Web_Services\MathService_REST\MathService_REST\MathService\bin\MathService.dll
+C:\cse460_Development\Modules\Unit6\Web_Services\MathService_REST\MathService_REST\MathService\bin\MathService.pdb
+C:\cse460_Development\Modules\Unit6\Web_Services\MathService_REST\MathService_REST\MathService\obj\Debug\MathService.dll
+C:\cse460_Development\Modules\Unit6\Web_Services\MathService_REST\MathService_REST\MathService\obj\Debug\MathService.pdb
+C:\cse460_Development\Modules\Unit6\Web_Services\MathService_REST\MathService_REST\MathService\obj\Debug\MathService.csprojResolveAssemblyReference.cache
+C:\Spring2019\CSE445\Lectures\Week8\Complex_WebServices\MathService_REST\MathService_REST\MathService\bin\MathService.dll.config
+C:\Spring2019\CSE445\Lectures\Week8\Complex_WebServices\MathService_REST\MathService_REST\MathService\bin\MathService.dll
+C:\Spring2019\CSE445\Lectures\Week8\Complex_WebServices\MathService_REST\MathService_REST\MathService\bin\MathService.pdb
+C:\Spring2019\CSE445\Lectures\Week8\Complex_WebServices\MathService_REST\MathService_REST\MathService\obj\Debug\MathService.csprojResolveAssemblyReference.cache
+C:\Spring2019\CSE445\Lectures\Week8\Complex_WebServices\MathService_REST\MathService_REST\MathService\obj\Debug\MathService.dll
+C:\Spring2019\CSE445\Lectures\Week8\Complex_WebServices\MathService_REST\MathService_REST\MathService\obj\Debug\MathService.pdb
+C:\Spring2020\CSE445\Week8\Complex_WebServices\MathService_REST\MathService_REST\MathService\bin\MathService.dll.config
+C:\Spring2020\CSE445\Week8\Complex_WebServices\MathService_REST\MathService_REST\MathService\bin\MathService.dll
+C:\Spring2020\CSE445\Week8\Complex_WebServices\MathService_REST\MathService_REST\MathService\bin\MathService.pdb
+C:\Spring2020\CSE445\Week8\Complex_WebServices\MathService_REST\MathService_REST\MathService\obj\Debug\MathService.dll
+C:\Spring2020\CSE445\Week8\Complex_WebServices\MathService_REST\MathService_REST\MathService\obj\Debug\MathService.pdb
+C:\Spring2020\CSE598\Unit6 Examples\MathService_REST\MathService_REST\MathService\bin\MathService.dll.config
+C:\Spring2020\CSE598\Unit6 Examples\MathService_REST\MathService_REST\MathService\bin\MathService.dll
+C:\Spring2020\CSE598\Unit6 Examples\MathService_REST\MathService_REST\MathService\bin\MathService.pdb
+C:\Spring2020\CSE598\Unit6 Examples\MathService_REST\MathService_REST\MathService\obj\Debug\MathService.csprojAssemblyReference.cache
+C:\Spring2020\CSE598\Unit6 Examples\MathService_REST\MathService_REST\MathService\obj\Debug\MathService.dll
+C:\Spring2020\CSE598\Unit6 Examples\MathService_REST\MathService_REST\MathService\obj\Debug\MathService.pdb
