@@ -1,1 +1,4 @@
 Simple Service
+
+REST Service 1 - Simple manipulation of inputs
+Sample REST to manipulate the data
